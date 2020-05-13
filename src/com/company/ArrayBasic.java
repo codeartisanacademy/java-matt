@@ -13,13 +13,15 @@ public class ArrayBasic {
 
         System.out.println(scores.length);
 
-        /**
+        // how to loop and iterate through the array
+        // this loop is about the index
         for(int x = 0; x < scores.length; x++ ){
             System.out.println(scores[x]);
         }
-        */
+
 
         // for each loop
+        // more simpler loop get directly the element inside the array instead of the index
         for(int s: scores){
             System.out.println(s);
         }

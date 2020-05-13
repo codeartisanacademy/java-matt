@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c249ef53-4a63-4b3c-8c91-f9305a8f9e1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/ArrayListBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/onlineshop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/oop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ArrayBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ArrayBasic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +38,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Move">
-    <configuration name="ArrayListBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ArrayListBasic" />
+  <component name="RunManager" selected="Application.ArrayBasic">
+    <configuration name="ArrayBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ArrayBasic" />
       <module name="matt" />
       <extension name="coverage">
         <pattern>
@@ -110,19 +105,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayListBasic" />
       <item itemvalue="Application.SmartPhone" />
       <item itemvalue="Application.onlineshop" />
       <item itemvalue="Application.oop" />
       <item itemvalue="Application.Move" />
+      <item itemvalue="Application.ArrayBasic" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayBasic" />
         <item itemvalue="Application.Move" />
         <item itemvalue="Application.onlineshop" />
         <item itemvalue="Application.SmartPhone" />
         <item itemvalue="Application.oop" />
-        <item itemvalue="Application.ArrayListBasic" />
       </list>
     </recent_temporary>
   </component>
@@ -144,22 +139,22 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="580" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1589352788021" />
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1589350687500">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1589376606612">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1589350687500" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1589350687499">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1589376606612" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1589376606611">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1589350687499" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1589350687498">
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1589376606611" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1589376606610">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1589350687498" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1589350687499">
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1589376606610" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1589376606612">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1589350687499" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1589376606612" />
     <state x="328" y="118" key="SettingsEditor" timestamp="1586495910315">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
