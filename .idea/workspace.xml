@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c249ef53-4a63-4b3c-8c91-f9305a8f9e1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/ArrayBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/EmailValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/FunctionBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SwitchControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ArrayListBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/onlineshop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/oop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +43,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.FunctionBasic">
-    <configuration name="ArrayBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ArrayBasic" />
+  <component name="RunManager" selected="Application.Move">
+    <configuration name="ArrayListBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ArrayListBasic" />
       <module name="matt" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.FunctionBasic" />
+    <configuration name="Move" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Move" />
       <module name="matt" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeadingTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.HeadingTitle" />
+    <configuration name="SmartPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SmartPhone" />
       <module name="matt" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.SwitchControl" />
+    <configuration name="onlineshop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.onlineshop" />
       <module name="matt" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.conditional" />
+    <configuration name="oop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.oop" />
       <module name="matt" />
       <extension name="coverage">
         <pattern>
@@ -108,19 +110,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.conditional" />
-      <item itemvalue="Application.HeadingTitle" />
-      <item itemvalue="Application.SwitchControl" />
-      <item itemvalue="Application.ArrayBasic" />
-      <item itemvalue="Application.FunctionBasic" />
+      <item itemvalue="Application.ArrayListBasic" />
+      <item itemvalue="Application.SmartPhone" />
+      <item itemvalue="Application.onlineshop" />
+      <item itemvalue="Application.oop" />
+      <item itemvalue="Application.Move" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FunctionBasic" />
-        <item itemvalue="Application.ArrayBasic" />
-        <item itemvalue="Application.SwitchControl" />
-        <item itemvalue="Application.HeadingTitle" />
-        <item itemvalue="Application.conditional" />
+        <item itemvalue="Application.Move" />
+        <item itemvalue="Application.onlineshop" />
+        <item itemvalue="Application.SmartPhone" />
+        <item itemvalue="Application.oop" />
+        <item itemvalue="Application.ArrayListBasic" />
       </list>
     </recent_temporary>
   </component>
@@ -138,22 +140,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1586935524845">
+    <state x="580" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1589352788021">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1586935524845" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1586935524843">
+    <state x="580" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1589352788021" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1589350687500">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1586935524843" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1586935524842">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1589350687500" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1589350687499">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1586935524842" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1586935524844">
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1589350687499" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1589350687498">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1586935524844" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1589350687498" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1589350687499">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1589350687499" />
     <state x="328" y="118" key="SettingsEditor" timestamp="1586495910315">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
