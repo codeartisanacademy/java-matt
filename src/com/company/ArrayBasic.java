@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.Arrays;
+
 public class ArrayBasic {
     public static void main(String[] args) {
         // declare an array of integers with six items inside
@@ -19,7 +21,6 @@ public class ArrayBasic {
             System.out.println(scores[x]);
         }
 
-
         // for each loop
         // more simpler loop get directly the element inside the array instead of the index
         for(int s: scores){
@@ -33,6 +34,11 @@ public class ArrayBasic {
                 {4,5,6}
         };
         System.out.println(grids[0][1]);
+
+        int[] myNumbers = new int[4];
+        myNumbers[0] = 1;
+        myNumbers[2] = 2;
+        System.out.println(myNumbers.length);
     }
 
 
